@@ -93,7 +93,7 @@ D) Custom
 
 Which products should you select during the MySQL installation?
 
-A) MySQL Server, MySQL Workbench, and MySQL Shell
+A) MySQL Server, MySQL Workbench, and MySQL Shell 
 B) Only MySQL Server
 C) MySQL Server and MySQL Router
 D) MySQL Workbench and MySQL Utilities
